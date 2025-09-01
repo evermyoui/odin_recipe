@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: wheat;
+}
+img {
+    background-color: lightblue;
+    padding-right: 240px;
+    object-fit: contain;
+    border: 10px solid lavender;
+    box-sizing: border-box;
+}
+.sisig {
+    width: 400px;
+    margin: 0 auto;
+    background-color: wheat;
+}
+.description {
+    background-color: white;
+    padding: 6px 18px;
+}
+.card {
+    background-color: lightcoral;
+    width: 400px;
+    height: 400px;
+    margin: 16px auto;
+    text-align: center;
+}
+.title {
+    background-color: white;
+}
+.content {
+    display: inline;
+    padding: 8px 16px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: lightgrey;
+    padding: 4px 16px;
+}
